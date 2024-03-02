@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 18,
+    "description": "Hinzufügen von Zangendeutsch als Sprache"
+  },
+  "language": {
+    "de_zd": {
+      "name": "Zangendeutsch",
+      "region": "Zwischennetz",
+      "bidirectional": false
+    }
+  }
+}
